@@ -1,0 +1,26 @@
+query,rank,title,company,similarity,semantic_score,title_score,skills_score,location_score
+"Software Engineer in San Francisco with skills: python,java,react",1,Senior Software Engineer,Robert Half,0.9857285022735596,0.9751708507537842,0.9607046246528625,1.0,1.0
+"Software Engineer in San Francisco with skills: python,java,react",2,Senior Software Engineer,Apex Systems,0.985602855682373,0.9739139676094055,0.9607046246528625,1.0,1.0
+"Software Engineer in San Francisco with skills: python,java,react",3,Software Engineer,Gem,0.9641790131727854,0.9751234650611877,1.0,0.8333333333333333,1.0
+"Software Engineer in San Francisco with skills: python,java,react",4,Senior Software Engineer,Higher Ground LLC,0.9525872468948364,0.9770920276641846,0.9607046246528625,0.8333333333333333,1.0
+"Software Engineer in San Francisco with skills: python,java,react",5,"Senior Software Engineer, Full Stack (TypeScript, Node, React, AWS)",Capital One,0.9518077373504639,0.9630451798439026,0.851677417755127,1.0,1.0
+"Data Scientist in New York with skills: python,machine learning,statistics",1,Data Scientist (HR Metrics),Maxonic,0.8180306088924408,0.980306088924408,1.0,0.5,0.8
+"Data Scientist in New York with skills: python,machine learning,statistics",2,Data Scientist,Tetricus Labs,0.8179082465171814,0.979082465171814,1.0,0.5,0.8
+"Data Scientist in New York with skills: python,machine learning,statistics",3,Senior Data Scientist,ZoomInfo,0.8086340427398682,0.9788371324539185,0.9691675901412964,0.5,0.8
+"Data Scientist in New York with skills: python,machine learning,statistics",4,Senior Data Scientist,"Paramount Software Solutions, Inc",0.8086199164390564,0.978696346282959,0.9691675901412964,0.5,0.8
+"Data Scientist in New York with skills: python,machine learning,statistics",5,Senior Data Scientist,Norstella,0.8085310459136963,0.9778075218200684,0.9691675901412964,0.5,0.8
+"UX Designer in Boston with skills: figma,user research,prototyping",1,Senior UX Designer,WHOOP,0.8558739423751831,0.976032555103302,0.9720134735107422,0.3333333333333333,1.0
+"UX Designer in Boston with skills: figma,user research,prototyping",2,Principal UX Designer,Plymouth Rock Assurance,0.7885568141937256,0.9695271849632263,0.9720134735107422,0.0,1.0
+"UX Designer in Boston with skills: figma,user research,prototyping",3,Senior Production Designer,DraftKings Inc.,0.7327407002449036,0.9392666220664978,0.5738245248794556,0.3333333333333333,1.0
+"UX Designer in Boston with skills: figma,user research,prototyping",4,Concept Designer,US Tech Solutions,0.6967600584030151,0.9426185488700867,0.6749941110610962,0.0,1.0
+"UX Designer in Boston with skills: figma,user research,prototyping",5,Senior Human Factors Engineer,AstraZeneca,0.6918052434921265,0.9400269389152527,0.6593418717384338,0.0,1.0
+"Product Manager in Seattle with skills: agile,product development,roadmap",1,Manager Product Management,Alaska Airlines,0.7817999124526978,0.9703068733215332,0.7270084619522095,0.3333333333333333,1.0
+"Product Manager in Seattle with skills: agile,product development,roadmap",2,Senior Product Manager,Glocomms,0.7648272514343262,0.9793461561203003,0.667419970035553,0.3333333333333333,1.0
+"Product Manager in Seattle with skills: agile,product development,roadmap",3,"Senior Product Manager, New Initiative",Remitly,0.751228928565979,0.9766907095909119,0.6229771375656128,0.3333333333333333,1.0
+"Product Manager in Seattle with skills: agile,product development,roadmap",4,Software Engineering Manager,GE HealthCare,0.7487877607345581,0.9326056838035583,0.6295349597930908,0.3333333333333333,1.0
+"Product Manager in Seattle with skills: agile,product development,roadmap",5,Senior Product Manager for B2B,Adobe,0.7417048811912537,0.9580742120742798,0.5974359512329102,0.3333333333333333,1.0
+"DevOps Engineer in Remote with skills: aws,kubernetes,docker",1,DevOps Engineer,Rainsoftglobal Technology Services,0.86998197555542,0.4998197555541992,1.0,1.0,0.8
+"DevOps Engineer in Remote with skills: aws,kubernetes,docker",2,DevOps Engineer,Progress Solutions ,0.8699574065208435,0.49957406520843506,1.0,1.0,0.8
+"DevOps Engineer in Remote with skills: aws,kubernetes,docker",3,DevOps Engineer,Hum Capital,0.8696901988983154,0.4969019889831543,1.0,1.0,0.8
+"DevOps Engineer in Remote with skills: aws,kubernetes,docker",4,DevOps Engineer(10+Years),Vivaswan Software Technologies,0.8696764063835145,0.49676406383514404,1.0,1.0,0.8
+"DevOps Engineer in Remote with skills: aws,kubernetes,docker",5,DevOps Engineer,Forward Progress Staffing,0.8696764063835145,0.49676406383514404,1.0,1.0,0.8

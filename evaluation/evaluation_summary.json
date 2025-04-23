@@ -1,0 +1,15 @@
+{
+  "retrieval_metrics": {
+    "avg_top1_similarity": 0.8622829883098602,
+    "avg_top3_similarity": 0.8443160385555691,
+    "avg_top5_similarity": 0.8321878984133402,
+    "similarity_dropoff": 0.037618868331114476,
+    "component_consistency": 0.9718313991025381
+  },
+  "component_scores": {
+    "semantic": 0.8733357787132263,
+    "title": 0.869514319896698,
+    "skills": 0.58,
+    "location": 0.9200000000000002
+  }
+}
